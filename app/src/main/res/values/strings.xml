@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Group25_InClass10</string>
+
+    <string name="course_number_hint">Course Number</string>
+    <string name="course_name_hint">Course Name</string>
+    <string name="credit_hours_hint">Credit Hours</string>
+
+    <string name="course_grade_radio_label">Course Grade</string>
+    <string name="course_grade_radio_A">A</string>
+    <string name="course_grade_radio_B">B</string>
+    <string name="course_grade_radio_C">C</string>
+    <string name="course_grade_radio_D">D</string>
+    <string name="course_grade_radio_F">F</string>
+
+    <string name="submit_button_label">Submit</string>
+    <string name="cancel_button_label">Cancel</string>
+
+    <string name="grade_list_label">Grades</string>
+
+    <string name="grade_fragment_title">Grades</string>
+    <string name="add_fragment_title">Add Course</string>
+</resources>
